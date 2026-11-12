@@ -107,7 +107,7 @@
   const services = $('#services-list');
   if (services) {
     const serviceIcons = {
-      vasthu:'<svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="20" cy="18" r="10"></circle><path d="M20 13v6l4 3"></path><path d="M27 29c4-1 8 1 10 5 2 4 1 8-3 10-4 2-8 1-10-3"></path><path d="m29 31 4 4 4-4"></path></svg>',
+      vasthu:'<svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square" stroke-linejoin="miter"><path d="M24 2 17 9h4v8H10v-4l-8 9 8 9v-4h11v8h-4l7 7 7-7h-4v-8h11v4l8-9-8-9v4H27V9h4L24 2Z"></path><path d="M15 34V22l9-8 9 8v12H15Z"></path><path d="M20 34v-7h8v7M18 34h12"></path></svg>',
       estimate:'<svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="13" y="7" width="22" height="34" rx="2"></rect><path d="M18 14h12M18 21h1M24 21h1M30 21h1M18 28h1M24 28h1M30 28h1M18 35h1M24 35h1M30 35h1"></path></svg>',
       interior:'<svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M25 11c-8 0-14 6-14 14s6 13 14 13c3 0 5-2 5-5 0-2-1-3-3-4-2-1-1-4 2-4h4c4 0 6-2 6-6 0-4-5-8-14-8Z"></path><circle cx="19" cy="19" r="1"></circle><circle cx="26" cy="17" r="1"></circle><circle cx="32" cy="20" r="1"></circle></svg>',
       site:'<svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M17 7c-3 0-5 3-5 7 0 5 2 9 5 9s5-4 5-9c0-4-2-7-5-7Z"></path><path d="M31 10c-3 0-5 3-5 7 0 5 2 9 5 9s5-4 5-9c0-4-2-7-5-7Z"></path><path d="M17 23v12M31 26v12M14 38h6M28 41h6"></path></svg>',
