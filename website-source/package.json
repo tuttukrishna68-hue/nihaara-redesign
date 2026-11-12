@@ -1,0 +1,9 @@
+{
+  "name": "nihaara-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Nihaara — The Vasthu Architecture. A self-contained responsive website with an optional enquiry backend.",
+  "type": "module",
+  "engines": {"node": ">=22"},
+  "scripts": {"start": "node server/server.mjs", "dev": "node server/server.mjs", "test": "node --test server/server.test.mjs", "export-enquiries": "node server/export-enquiries.mjs"}
+}

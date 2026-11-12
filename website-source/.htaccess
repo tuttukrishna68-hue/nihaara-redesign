@@ -1,0 +1,11 @@
+Options -Indexes
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^(server|data|docs)(/|$) - [F,L]
+RewriteRule ^\.(?!well-known/) - [F,L]
+RewriteRule ^about/?$ studio.html [R=301,L]
+RewriteRule ^gallery/?$ gallery.html [R=301,L]
+RewriteRule ^faq/?$ faq.html [R=301,L]
+RewriteRule ^contact/?$ index.html#contact [R=301,L,NE]
+RewriteRule ^real-vs-3d/?$ index.html#drawn-built [R=301,L,NE]
+</IfModule>

@@ -1,0 +1,4138 @@
+{
+  "retrieved": "2026-11-12",
+  "images": [
+    {
+      "source": "https://nihaara.com/assets/projects/project0.jpg",
+      "local": "assets/projects/project-01.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1089770,
+      "sha256": "3eb2f5fba1203f7c43624142731b4ae5eb796423c89809662a238b1955aa51d1",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/projects/project1.jpg",
+      "local": "assets/projects/project-02.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 936609,
+      "sha256": "7956ef1a42343d666f7b9d7a7c16b23943e3be51d301daf45155adc57ee77eb7",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/projects/project2.jpg",
+      "local": "assets/projects/project-03.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1236832,
+      "sha256": "1de64c6c8f52323ea248decfb0ca7297f3ee33b3790b4bb84834dcf309332bd5",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/projects/project3.jpg",
+      "local": "assets/projects/project-04.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 786582,
+      "sha256": "b058513de2bfd9ec5955e5547ea0f47a1ef603dc91cfd6fac4a3d37afe9f5281",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/projects/project4.jpg",
+      "local": "assets/projects/project-05.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1056566,
+      "sha256": "3527ac7624437445ebe87def808993935d3ac3572f52a57129a45df049f4021b",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/projects/project5.jpg",
+      "local": "assets/projects/project-06.jpg",
+      "originalDimensions": [
+        1600,
+        1000
+      ],
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "bytes": 149582,
+      "sha256": "0c614399ff0d9073b3ffc63db44ddc5795547ac8962d9f288ce9492811b30e9e",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/projects/project6.jpg",
+      "local": "assets/projects/project-07.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 833869,
+      "sha256": "d90441571697840f84f7f000cef0f0550e7fd0359715b7395753a24a1fe41f01",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/projects/project7.jpg",
+      "local": "assets/projects/project-08.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 771429,
+      "sha256": "7beaac971188d511d982ed2c685e0eccef3b0136ba795b6ca15380749f34c5d9",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image33.jpg",
+      "local": "assets/gallery/gallery-001.jpg",
+      "originalDimensions": [
+        1548,
+        1080
+      ],
+      "dimensions": [
+        1548,
+        1080
+      ],
+      "bytes": 84798,
+      "sha256": "0163ab73daa5c0601a051b0eeb6a56637b84c7195ed37fcdbfde7f7ad86f8558",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/56DC175E-8A88-4D32-81FF-68C35D367242.jpg",
+      "local": "assets/gallery/gallery-002.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 6906444,
+      "sha256": "c4aef77081ab152862f2d05bc0dd7e7c793239c16a945f2ee428d3d33becbd77",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/3773E1FE-8BAA-4513-98AF-9FA752C2A4FA.jpg",
+      "local": "assets/gallery/gallery-003.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 6547307,
+      "sha256": "4bbc3a8d8cdf7172993712d30b45338ee2777389b393d56dd355e854562fdba1",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image13.jpg",
+      "local": "assets/gallery/gallery-004.jpg",
+      "originalDimensions": [
+        1600,
+        900
+      ],
+      "dimensions": [
+        1600,
+        900
+      ],
+      "bytes": 96902,
+      "sha256": "8f76c3f0a899b95cf9a4ec69f4cf6ad6db3ee495dc08f5218a21600ed46c0fae",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20224104.jpg",
+      "local": "assets/gallery/gallery-005.jpg",
+      "originalDimensions": [
+        700,
+        505
+      ],
+      "dimensions": [
+        700,
+        505
+      ],
+      "bytes": 56532,
+      "sha256": "a6cb087d061274da9f62c56b608a91c7dd4a2c265ed30b200c89f0224068656f",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20224138.jpg",
+      "local": "assets/gallery/gallery-006.jpg",
+      "originalDimensions": [
+        1132,
+        633
+      ],
+      "dimensions": [
+        1132,
+        633
+      ],
+      "bytes": 102234,
+      "sha256": "3d850f86c8992b29f913a84312c4f6ea1ea5fb589885ea397ea50f5dcfa880ee",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project9.jpg",
+      "local": "assets/gallery/gallery-007.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 828763,
+      "sha256": "e98cf0192711a05ace5145db095c957b78f7e3b9891e0d7f263e55c3107e0a51",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image14.jpg",
+      "local": "assets/gallery/gallery-008.jpg",
+      "originalDimensions": [
+        1600,
+        900
+      ],
+      "dimensions": [
+        1600,
+        900
+      ],
+      "bytes": 102304,
+      "sha256": "c60b4613cc918a62128e341a0afc189294e8d899e85b475f4b68a2a28772d869",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project13.jpg",
+      "local": "assets/gallery/gallery-009.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 712285,
+      "sha256": "dfdde37d16a2620e94cd6f3e16c63b5e7090605a2f4e0f9366d0eb480069acb8",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/D318DD8B-8F80-4B8D-A77A-8DF8B2896C8F.jpg",
+      "local": "assets/gallery/gallery-010.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 5222730,
+      "sha256": "6e431cffd21748d8c51ec5a1a5751b59b6c130e72441bd196ba8bec5ce8bb2fe",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image8.jpg",
+      "local": "assets/gallery/gallery-011.jpg",
+      "originalDimensions": [
+        1280,
+        720
+      ],
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 57320,
+      "sha256": "e3f6176c783466caf780e0293caeac66c5c528b736fdefc130a31ff2d3d8a8fe",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image16.jpg",
+      "local": "assets/gallery/gallery-012.jpg",
+      "originalDimensions": [
+        1280,
+        720
+      ],
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 42182,
+      "sha256": "0ae8e589ae0826fe50e61c0251f9ba1a8ab39fe78a40586ee266a61968763f13",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image18.jpg",
+      "local": "assets/gallery/gallery-013.jpg",
+      "originalDimensions": [
+        1280,
+        960
+      ],
+      "dimensions": [
+        1280,
+        960
+      ],
+      "bytes": 47274,
+      "sha256": "cdeb211cc542bb75a630ba709a264b0b133b14cf81d11b6a7a29fcbb8e8b79f6",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/FCA9BBF6-0120-4D7A-9CEA-1B9150A540CE.jpg",
+      "local": "assets/gallery/gallery-014.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 5697902,
+      "sha256": "c2785769973476c7a632c306bbd1420ad6bc7aec56efeecac222bd7e9f9de937",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/AC41B98C-08E6-400B-8301-24F2FCC9E482.jpg",
+      "local": "assets/gallery/gallery-015.jpg",
+      "originalDimensions": [
+        7680,
+        4320
+      ],
+      "dimensions": [
+        7680,
+        4320
+      ],
+      "bytes": 30339921,
+      "sha256": "fbd845a39251d133adf648024632560e6d0e3cedeebd9785a1af7f9c9754796e",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project3.jpg",
+      "local": "assets/gallery/gallery-016.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 1197337,
+      "sha256": "6b12f28d975f67a6bfe6f8864d42d04a2864ba611ad0547c2d0c3c8803d2c18b",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image20.jpg",
+      "local": "assets/gallery/gallery-017.jpg",
+      "originalDimensions": [
+        1280,
+        960
+      ],
+      "dimensions": [
+        1280,
+        960
+      ],
+      "bytes": 64409,
+      "sha256": "809d4c9f9b6e9df73aca94875fe33591f18ab7301d973760fa79f898f18ae32c",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project8.jpg",
+      "local": "assets/gallery/gallery-018.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 936609,
+      "sha256": "7956ef1a42343d666f7b9d7a7c16b23943e3be51d301daf45155adc57ee77eb7",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image27.jpg",
+      "local": "assets/gallery/gallery-019.jpg",
+      "originalDimensions": [
+        1600,
+        1200
+      ],
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "bytes": 74725,
+      "sha256": "34de9f23bd499c9469d5ed1012584cecb03154abf037acceb97e21af368bc694",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image2.jpg",
+      "local": "assets/gallery/gallery-020.jpg",
+      "originalDimensions": [
+        1280,
+        720
+      ],
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 88937,
+      "sha256": "7f9e551c7090b68a37f0a1fb50929de3068e6219750669d1802f9934ee3df7dd",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/D7D9C116-7306-4BB3-B5CA-91B0B8931496.jpg",
+      "local": "assets/gallery/gallery-021.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 6311929,
+      "sha256": "6dbd65ec456cae7df5412489b5271f883271987a9a79b92a739080291cfddc0a",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project40.jpg",
+      "local": "assets/gallery/gallery-022.jpg",
+      "originalDimensions": [
+        1600,
+        1000
+      ],
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "bytes": 120729,
+      "sha256": "3f61be8d4d283cc6b9f107683d5762957520476d013f95ec971a19ecbffe1d61",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20224156.jpg",
+      "local": "assets/gallery/gallery-023.jpg",
+      "originalDimensions": [
+        1137,
+        637
+      ],
+      "dimensions": [
+        1137,
+        637
+      ],
+      "bytes": 91699,
+      "sha256": "d2ee461c69c2dc4fd20d44c2c2afd294e12fecb8862c15e894900e927675553e",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project44.jpg",
+      "local": "assets/gallery/gallery-024.jpg",
+      "originalDimensions": [
+        1600,
+        1000
+      ],
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "bytes": 149582,
+      "sha256": "0c614399ff0d9073b3ffc63db44ddc5795547ac8962d9f288ce9492811b30e9e",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image6.jpg",
+      "local": "assets/gallery/gallery-025.jpg",
+      "originalDimensions": [
+        1280,
+        720
+      ],
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 85266,
+      "sha256": "3cdceb9732dea0af5a3d5d4eefc1b1355f140ebbae8a9357328472dd5ef61dd3",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image12.jpg",
+      "local": "assets/gallery/gallery-026.jpg",
+      "originalDimensions": [
+        1600,
+        921
+      ],
+      "dimensions": [
+        1600,
+        921
+      ],
+      "bytes": 96909,
+      "sha256": "1dde67c091f13c15cfd6a57e3e5cd084b223a3049f4763bcf3e23e32e9896172",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/55349ADE-9D0D-4B7E-81AF-C3679E679E78.jpg",
+      "local": "assets/gallery/gallery-027.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 6412420,
+      "sha256": "674eb62520addd26a7ada8bc2be5e97d134f2457ab0dda74b6a604529797acdc",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image10.jpg",
+      "local": "assets/gallery/gallery-028.jpg",
+      "originalDimensions": [
+        1280,
+        720
+      ],
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 62880,
+      "sha256": "c4c14a43ed425935c9dafc36c953e178cc3e5aaca94efa616c067fea0261f733",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project28.jpg",
+      "local": "assets/gallery/gallery-029.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 713189,
+      "sha256": "5e3a9d319ba12a653a8099a1c7c477facfce981561e9dd265d445b095a4534bc",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image30.jpg",
+      "local": "assets/gallery/gallery-030.jpg",
+      "originalDimensions": [
+        1600,
+        1200
+      ],
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "bytes": 100386,
+      "sha256": "69cb295d5a18dd6a2e94d0b4c9263b695abfb541800984f4a7280a6048f6f2a0",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project2.jpg",
+      "local": "assets/gallery/gallery-031.jpg",
+      "originalDimensions": [
+        1280,
+        720
+      ],
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 54555,
+      "sha256": "90a48ac4ff0fdc35b20983e97fbb64afb04ce57c0f29dd8d51d6890f50a06dfd",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image3.jpg",
+      "local": "assets/gallery/gallery-032.jpg",
+      "originalDimensions": [
+        1280,
+        720
+      ],
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 98166,
+      "sha256": "329e54aa3410afebaa247806f83fcde0c4139a5c41e444dad44e4b2015d5f9b5",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project51.jpg",
+      "local": "assets/gallery/gallery-033.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 786582,
+      "sha256": "b058513de2bfd9ec5955e5547ea0f47a1ef603dc91cfd6fac4a3d37afe9f5281",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20223835.jpg",
+      "local": "assets/gallery/gallery-034.jpg",
+      "originalDimensions": [
+        978,
+        546
+      ],
+      "dimensions": [
+        978,
+        546
+      ],
+      "bytes": 68744,
+      "sha256": "0196c8568a1d3a95ab6ee598248cce90959e5c5dfb9c13260442188c1f696a33",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image1.jpg",
+      "local": "assets/gallery/gallery-035.jpg",
+      "originalDimensions": [
+        1280,
+        720
+      ],
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 66276,
+      "sha256": "904a476bf6496482f95d064c4baf124634a55c3afe4f865afcb968fd0d152adf",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project31.jpg",
+      "local": "assets/gallery/gallery-036.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 836107,
+      "sha256": "ace0d587c0cbc5c05f9d57991c8f72e6d6685092499f4dd3c6686792f23264d7",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image32.jpg",
+      "local": "assets/gallery/gallery-037.jpg",
+      "originalDimensions": [
+        1593,
+        1080
+      ],
+      "dimensions": [
+        1593,
+        1080
+      ],
+      "bytes": 60674,
+      "sha256": "298a538bb906482bae5933a673dd47da5ffae2940e9ecac40662b90603e19193",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project1.jpg",
+      "local": "assets/gallery/gallery-038.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 720064,
+      "sha256": "ac55da2a4ff99bd0544cb9b8efca1655e2b182ff51e5f61c0c2c43fb2e52509b",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project27.jpg",
+      "local": "assets/gallery/gallery-039.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1178006,
+      "sha256": "8f2f2eb888e85dfeb0bb94ef51de432a795b3ccbf7d0a1144ceb08997ff0f3ce",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project22.jpg",
+      "local": "assets/gallery/gallery-040.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 925115,
+      "sha256": "f1037ef53e60375e61357800a607fff0b83b01410ac89ab05e8a863b75125dec",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image31.jpg",
+      "local": "assets/gallery/gallery-041.jpg",
+      "originalDimensions": [
+        1600,
+        1200
+      ],
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "bytes": 53926,
+      "sha256": "a51372376ffe790e6bc4bc0bfa0504887f0c04e7da5efb8036b90e85751ec8e6",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project47.jpg",
+      "local": "assets/gallery/gallery-042.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 685685,
+      "sha256": "29b9b84fb0cf657b192f24231a27ec0ae17b24b2104b4d2da8465c5732b4bff0",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20223958.jpg",
+      "local": "assets/gallery/gallery-043.jpg",
+      "originalDimensions": [
+        1328,
+        746
+      ],
+      "dimensions": [
+        1328,
+        746
+      ],
+      "bytes": 198581,
+      "sha256": "fd225802ee5d9805a1b8069768ae1edbf200243de625033bfe970b60ac962b46",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project46.jpg",
+      "local": "assets/gallery/gallery-044.jpg",
+      "originalDimensions": [
+        1152,
+        720
+      ],
+      "dimensions": [
+        1152,
+        720
+      ],
+      "bytes": 61876,
+      "sha256": "487993d8ba48886f14491a88d46c3341506909cfece437f01272a40fc3d141e7",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image5.jpg",
+      "local": "assets/gallery/gallery-045.jpg",
+      "originalDimensions": [
+        1280,
+        720
+      ],
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 81961,
+      "sha256": "61b6c1d566f5bc4ab6f6c3bdfc7474e6c7012bfb6a997970b4c80fefa8893fb7",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project19.jpg",
+      "local": "assets/gallery/gallery-046.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1330331,
+      "sha256": "f4ba475645e4bccdbaa3e1f7cc36e103a54b6d52af297cfe459acc88495929b8",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project41.jpg",
+      "local": "assets/gallery/gallery-047.jpg",
+      "originalDimensions": [
+        1600,
+        1000
+      ],
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "bytes": 148978,
+      "sha256": "bac1a6e6695ed22ac709b81a8a24c7f6ff0bf956d575d6b76cf4e2a1dc12cbc4",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image17.jpg",
+      "local": "assets/gallery/gallery-048.jpg",
+      "originalDimensions": [
+        1600,
+        900
+      ],
+      "dimensions": [
+        1600,
+        900
+      ],
+      "bytes": 85530,
+      "sha256": "e38b209c6c290332dee6c9a50649ca07e7276d86ef9767387e922035a80f7ee0",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project32.jpg",
+      "local": "assets/gallery/gallery-049.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 771429,
+      "sha256": "7beaac971188d511d982ed2c685e0eccef3b0136ba795b6ca15380749f34c5d9",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project7.jpg",
+      "local": "assets/gallery/gallery-050.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1019764,
+      "sha256": "af5afdf795bb353a28fc7df62f73624cbf8ac2e8bbe69cc49058cc2aaa4ec61e",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project14.jpg",
+      "local": "assets/gallery/gallery-051.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1100384,
+      "sha256": "946a6d25a89740f7f272431b209f481250258120c5a75fae767eb6ee2052b236",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20223752.jpg",
+      "local": "assets/gallery/gallery-052.jpg",
+      "originalDimensions": [
+        1068,
+        673
+      ],
+      "dimensions": [
+        1068,
+        673
+      ],
+      "bytes": 117421,
+      "sha256": "b86920f11b0179c8224ca90d3d65f12e4d8c412b82cfe90ad9b1e0d4127e15a3",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/CECDCA03-62AD-4C91-A06F-F89E4AA2611E.jpg",
+      "local": "assets/gallery/gallery-053.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 4866738,
+      "sha256": "855cd7a729d50727639754458069e79d79d39b8a194d0f0d40cfbc4ea7441854",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project18.jpg",
+      "local": "assets/gallery/gallery-054.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1056566,
+      "sha256": "3527ac7624437445ebe87def808993935d3ac3572f52a57129a45df049f4021b",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image4.jpg",
+      "local": "assets/gallery/gallery-055.jpg",
+      "originalDimensions": [
+        1280,
+        720
+      ],
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 60850,
+      "sha256": "bfa7bc00a44cc996345e1d66a353a56ce3e83ccefba3e26dd9cca88bc8220071",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20223816.jpg",
+      "local": "assets/gallery/gallery-056.jpg",
+      "originalDimensions": [
+        900,
+        507
+      ],
+      "dimensions": [
+        900,
+        507
+      ],
+      "bytes": 62448,
+      "sha256": "33b9be686dedbe11a663876921c3bcabc1741acf4fc7a72c93128ab51da402d9",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project12.jpg",
+      "local": "assets/gallery/gallery-057.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1320914,
+      "sha256": "224a5eac0ffdf79eb9ab1e13cf99419b8c440457f35bc4fc25692a7dd9ef713d",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image29.jpg",
+      "local": "assets/gallery/gallery-058.jpg",
+      "originalDimensions": [
+        1600,
+        900
+      ],
+      "dimensions": [
+        1600,
+        900
+      ],
+      "bytes": 68438,
+      "sha256": "ee23d2eff7803858ca9f0e07b2b60d62d2c5dd657076564f0c47bbcd81902158",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project20.jpg",
+      "local": "assets/gallery/gallery-059.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 727500,
+      "sha256": "c27b7caf69eaf30ec7b29d1896e3c2842ea82cae0246b0997b3cc4b265ff35d6",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image19.jpg",
+      "local": "assets/gallery/gallery-060.jpg",
+      "originalDimensions": [
+        1280,
+        960
+      ],
+      "dimensions": [
+        1280,
+        960
+      ],
+      "bytes": 72387,
+      "sha256": "99b4e2a12338df586ec4a32557d845665ded4d340380143a11bb67a5c9692075",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/30483078-D3D4-4A9A-BAE6-C2628DB662C8.jpg",
+      "local": "assets/gallery/gallery-061.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 6959741,
+      "sha256": "35e1173314d953538eeadfbcba7089919ec7dca018d91892c956ecba6ce878ca",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image0.jpg",
+      "local": "assets/gallery/gallery-062.jpg",
+      "originalDimensions": [
+        1280,
+        720
+      ],
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 52709,
+      "sha256": "941758145d20f310f3d0ca3b216d54fe4826f2ab3c3a651e14066cec4377c856",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20224014.jpg",
+      "local": "assets/gallery/gallery-063.jpg",
+      "originalDimensions": [
+        1328,
+        821
+      ],
+      "dimensions": [
+        1328,
+        821
+      ],
+      "bytes": 121415,
+      "sha256": "ae4059311dee37b7ddbce5e2eeba1d4f9e187717673a85585d684e6beb74650c",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20224120.jpg",
+      "local": "assets/gallery/gallery-064.jpg",
+      "originalDimensions": [
+        1063,
+        743
+      ],
+      "dimensions": [
+        1063,
+        743
+      ],
+      "bytes": 114103,
+      "sha256": "5117b9eaa104682d83bede6ccb281bcbeabec3782956dcd873dbfbca7595f407",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project42.jpg",
+      "local": "assets/gallery/gallery-065.jpg",
+      "originalDimensions": [
+        1600,
+        1000
+      ],
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "bytes": 141238,
+      "sha256": "da57e36da069bd847f64682a3e13f3478084aa97f6f4a90a4b7cc81b7912276d",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/14CBE357-5CA1-4EC9-AB68-5AFD2D7807D5.jpg",
+      "local": "assets/gallery/gallery-066.jpg",
+      "originalDimensions": [
+        7680,
+        4320
+      ],
+      "dimensions": [
+        7680,
+        4320
+      ],
+      "bytes": 23661588,
+      "sha256": "de4e3826c948d96020b509d723ba07c560feeaef1585fed9f75ff8fbc0fcfdaf",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project15.jpg",
+      "local": "assets/gallery/gallery-067.jpg",
+      "originalDimensions": [
+        4800,
+        2696
+      ],
+      "dimensions": [
+        4800,
+        2696
+      ],
+      "bytes": 801143,
+      "sha256": "e599894423d8a74ce63b44e714da76e6671d7df65f192225f3ebf290ce45aaa0",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project52.jpg",
+      "local": "assets/gallery/gallery-068.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 989801,
+      "sha256": "55e85fea39d0d8f802f319af050b938f702ff3bd97f745550641e82e952ef9a9",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image25.jpg",
+      "local": "assets/gallery/gallery-069.jpg",
+      "originalDimensions": [
+        1600,
+        1200
+      ],
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "bytes": 91243,
+      "sha256": "7d3be5a1b8d10c09832487c41e32de9b74da700c53fab4578150afe9b12b0528",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image9.jpg",
+      "local": "assets/gallery/gallery-070.jpg",
+      "originalDimensions": [
+        1280,
+        720
+      ],
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 56454,
+      "sha256": "4348e6acdf1d63a4b2d652d55f8288539a22961129e1882307eb2fdadf7b1a39",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project6.jpg",
+      "local": "assets/gallery/gallery-071.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 654835,
+      "sha256": "085ab9953373558fc1c34a2576434fddac971033a1dbbb7b3cf366217911209a",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image24.jpg",
+      "local": "assets/gallery/gallery-072.jpg",
+      "originalDimensions": [
+        1600,
+        1200
+      ],
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "bytes": 113803,
+      "sha256": "15cc4b51cdafc3a1477fbf00539cd481242c9dccf80e4394aa943f8f92d809de",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project24.jpg",
+      "local": "assets/gallery/gallery-073.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1236832,
+      "sha256": "1de64c6c8f52323ea248decfb0ca7297f3ee33b3790b4bb84834dcf309332bd5",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project5.jpg",
+      "local": "assets/gallery/gallery-074.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1035190,
+      "sha256": "749975d4362eca862643b86054bd975a99cd8ea0bf2611a0ff1d79bad8e4c3d9",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/26861621-B406-49F1-AAA9-91A95D7A1997.jpg",
+      "local": "assets/gallery/gallery-075.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 6521562,
+      "sha256": "218a5ea8245bd5f6d50fdb472530de8b034b8a7522808a7de1a4f48f02f61590",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project39.jpg",
+      "local": "assets/gallery/gallery-076.jpg",
+      "originalDimensions": [
+        1600,
+        896
+      ],
+      "dimensions": [
+        1600,
+        896
+      ],
+      "bytes": 133588,
+      "sha256": "ce65ce47480a547624b341b65d64ff9f5d7aa77c52a6a2f68cc147d767449a2b",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project33.jpg",
+      "local": "assets/gallery/gallery-077.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 730987,
+      "sha256": "d51b3455ad2e2f3230d77a2938313e0e90c793d419bed56c48c26877f083b460",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project48.jpg",
+      "local": "assets/gallery/gallery-078.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 705817,
+      "sha256": "5475f1eed54238beaf83c130df5a1cf07b62f115fbe0277387f7e9ffb106de78",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project21.jpg",
+      "local": "assets/gallery/gallery-079.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 759756,
+      "sha256": "f701d4cce52d3598379d739a71563c1cfbd8f1abd1876f1c3f1c6fe4b4505936",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image15.jpg",
+      "local": "assets/gallery/gallery-080.jpg",
+      "originalDimensions": [
+        1600,
+        1263
+      ],
+      "dimensions": [
+        1600,
+        1263
+      ],
+      "bytes": 98394,
+      "sha256": "778170649c5e9d53b8afe97674785de9468fad5b714e7e78e1b6f113cb0e5244",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image11.jpg",
+      "local": "assets/gallery/gallery-081.jpg",
+      "originalDimensions": [
+        1600,
+        900
+      ],
+      "dimensions": [
+        1600,
+        900
+      ],
+      "bytes": 107406,
+      "sha256": "867d011e0b69366efc090f6efcef50dc82fbc6837b50e0521c92890ce8f2d83f",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image26.jpg",
+      "local": "assets/gallery/gallery-082.jpg",
+      "originalDimensions": [
+        1600,
+        1200
+      ],
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "bytes": 82933,
+      "sha256": "a22bf1a10091756607a218f8c8733052eebf7dfdbe747b67b8795f8c229d20bf",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project49.jpg",
+      "local": "assets/gallery/gallery-083.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 771309,
+      "sha256": "a4f75f600fa1bac5a89529e5d9346baebef04babb694b44681b49d339c088236",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project50.jpg",
+      "local": "assets/gallery/gallery-084.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 952065,
+      "sha256": "a8343f36f7c3edc6e53c2f42169b6417d4876dd0d75188a0ad5ef0d46e8c47e4",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project10.jpg",
+      "local": "assets/gallery/gallery-085.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1089770,
+      "sha256": "3eb2f5fba1203f7c43624142731b4ae5eb796423c89809662a238b1955aa51d1",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project26.jpg",
+      "local": "assets/gallery/gallery-086.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 820672,
+      "sha256": "e4331b8c8528fa4b0ad41af46296cdb7dddc3fd439ec5c63d6eb60a392a91297",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project25.jpg",
+      "local": "assets/gallery/gallery-087.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 843699,
+      "sha256": "2196fd25462d8ec3eb9a2de76e90794fd9b935c476464529872f43c0ee13b59a",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project16.jpg",
+      "local": "assets/gallery/gallery-088.jpg",
+      "originalDimensions": [
+        4800,
+        2696
+      ],
+      "dimensions": [
+        4800,
+        2696
+      ],
+      "bytes": 1230480,
+      "sha256": "3c5dc133f1ac754716e05a476c013125137aca57525fcc2b89d178337175103b",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project17.jpg",
+      "local": "assets/gallery/gallery-089.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 762961,
+      "sha256": "b5100617b3fcd1d541807bc92c2996da8588cfb4135c1e5aa4c0f399cfee7ee9",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project35.jpg",
+      "local": "assets/gallery/gallery-090.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 783415,
+      "sha256": "104fdbf75dcec543165b1dec4ea6f2a25d9e65cb31e0a2c5ed815a9659dba552",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image28.jpg",
+      "local": "assets/gallery/gallery-091.jpg",
+      "originalDimensions": [
+        1600,
+        1200
+      ],
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "bytes": 85648,
+      "sha256": "85faae5aa1d3a18edea7eade9714d9361ba841bc071b7ada06b80673e0aefccb",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project4.jpg",
+      "local": "assets/gallery/gallery-092.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 838093,
+      "sha256": "12656f96f105551f30e4dd536e91b3a2852ad0759a5cd463b7bd2c99f320facd",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image23.jpg",
+      "local": "assets/gallery/gallery-093.jpg",
+      "originalDimensions": [
+        1280,
+        960
+      ],
+      "dimensions": [
+        1280,
+        960
+      ],
+      "bytes": 36256,
+      "sha256": "0021f66571c88d186f802363c49ecdcf93247f4f6e08c0d7cfa7d570688d8d22",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20223909.jpg",
+      "local": "assets/gallery/gallery-094.jpg",
+      "originalDimensions": [
+        790,
+        503
+      ],
+      "dimensions": [
+        790,
+        503
+      ],
+      "bytes": 72051,
+      "sha256": "9eda4d77a344044626fc5d1209b040327d59526fefe3a93c9cb3bd09478cac6a",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/08EAC207-5A66-43F7-BB54-7410F74CF295.jpg",
+      "local": "assets/gallery/gallery-095.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 5588982,
+      "sha256": "47fbc18d273cb414f991bd8317baba7cf03d76d7593c220c64e69637881a5387",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project45.jpg",
+      "local": "assets/gallery/gallery-096.jpg",
+      "originalDimensions": [
+        1600,
+        1000
+      ],
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "bytes": 136524,
+      "sha256": "30cb814d515c7a28c5b787ce323f20b4dd53d9beea709db6e2950b1925176ab4",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project38.jpg",
+      "local": "assets/gallery/gallery-097.jpg",
+      "originalDimensions": [
+        1600,
+        1000
+      ],
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "bytes": 140000,
+      "sha256": "18db171675ffe323b592438bc2529dfa57fc8a91ca2ff92e495e509994d1a66e",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project30.jpg",
+      "local": "assets/gallery/gallery-098.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 1030849,
+      "sha256": "1436f5bfb0a44d7f144a1aa9f4d0b8c4c35cabaa8b6e7690eb52fcb1f1859212",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image21.jpg",
+      "local": "assets/gallery/gallery-099.jpg",
+      "originalDimensions": [
+        1280,
+        960
+      ],
+      "dimensions": [
+        1280,
+        960
+      ],
+      "bytes": 61221,
+      "sha256": "e69cb0777ca88fed65a479261b06f222314b99094a22bfebfacc54af93d9d459",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20223935.jpg",
+      "local": "assets/gallery/gallery-100.jpg",
+      "originalDimensions": [
+        905,
+        577
+      ],
+      "dimensions": [
+        905,
+        577
+      ],
+      "bytes": 69755,
+      "sha256": "2c1bca2866c4da24b0d862ebb9cdb101209b56d2af320021f03002b1913ea653",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20224043.jpg",
+      "local": "assets/gallery/gallery-101.jpg",
+      "originalDimensions": [
+        857,
+        475
+      ],
+      "dimensions": [
+        857,
+        475
+      ],
+      "bytes": 53114,
+      "sha256": "4a51369eee9740a19c06d9bd99a9aaddb92e86a3bc9657b58585ad5982f95bcd",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image7.jpg",
+      "local": "assets/gallery/gallery-102.jpg",
+      "originalDimensions": [
+        1280,
+        720
+      ],
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 62159,
+      "sha256": "690b7f76274386522ba1851428d70f0ffaf3bd6537af3299418f131440b6a45b",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/85E66C7A-232B-48D8-8ECB-BD796F9F2FFF.jpg",
+      "local": "assets/gallery/gallery-103.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 6557891,
+      "sha256": "d17641f49bf492501c7b9be2b3f14e93ff5636b34d4b9a505674110cc6e3b4b7",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project36.jpg",
+      "local": "assets/gallery/gallery-104.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 783439,
+      "sha256": "199e4b728556b4b87b8d93ec35ab6b44900f27dfcc33129db84390482eff78b4",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project34.jpg",
+      "local": "assets/gallery/gallery-105.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 1227315,
+      "sha256": "d0ece657004549d2ab2a7f2cb65114f951f7b03024b7d03eabca002a2148c8d2",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project29.jpg",
+      "local": "assets/gallery/gallery-106.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 1646394,
+      "sha256": "aebd8d24710e2e6e23d59a6351d33045e9f6fb569f1af2d57afe6f31f08a2f23",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project37.jpg",
+      "local": "assets/gallery/gallery-107.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 666073,
+      "sha256": "db9b5ed321cfe24df0a9f2b561cabefbd67791d7164df6765cd27f0f7ad99998",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/F208B783-1D98-464F-BC43-82E3F9216C24.jpg",
+      "local": "assets/gallery/gallery-108.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 6392879,
+      "sha256": "e213b3b97512c57f5b8c375e34f47cb5abfa879ceff932614863545229157c46",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/3C26778A-94C8-42EA-97BC-B2A17D6B3D04.jpg",
+      "local": "assets/gallery/gallery-109.jpg",
+      "originalDimensions": [
+        7680,
+        4320
+      ],
+      "dimensions": [
+        7680,
+        4320
+      ],
+      "bytes": 25835521,
+      "sha256": "fb1fe3570014b74d9380fdb91af95d5419f76c8a04361876a49324631130f02b",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project43.jpg",
+      "local": "assets/gallery/gallery-110.jpg",
+      "originalDimensions": [
+        1600,
+        896
+      ],
+      "dimensions": [
+        1600,
+        896
+      ],
+      "bytes": 112371,
+      "sha256": "419e441bf125969a4ae073c4a4614b383df7fa4fa59f96da467fd9e8592f05af",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project23.jpg",
+      "local": "assets/gallery/gallery-111.jpg",
+      "originalDimensions": [
+        4800,
+        2592
+      ],
+      "dimensions": [
+        4800,
+        2592
+      ],
+      "bytes": 852976,
+      "sha256": "b1b3b63a2d04cd77df6f874902be0c252c8a2978b4df7375600dc4f72b2f6cd7",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/FBA335D3-9138-449C-BDDE-3501659EED2D.jpg",
+      "local": "assets/gallery/gallery-112.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 4898073,
+      "sha256": "05cac47a7f7920566c00db69638c0202a290da5ddec0da4b1e67a3c86d2ad1bc",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image22.jpg",
+      "local": "assets/gallery/gallery-113.jpg",
+      "originalDimensions": [
+        1280,
+        960
+      ],
+      "dimensions": [
+        1280,
+        960
+      ],
+      "bytes": 65766,
+      "sha256": "4661204e5b6f801eaed76f2000b636ee8ca0391e2bcef01e898f0450fcaf3e84",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project11.jpg",
+      "local": "assets/gallery/gallery-114.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 833869,
+      "sha256": "d90441571697840f84f7f000cef0f0550e7fd0359715b7395753a24a1fe41f01",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project0.jpg",
+      "local": "assets/gallery/gallery-115.jpg",
+      "originalDimensions": [
+        4800,
+        3000
+      ],
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 911596,
+      "sha256": "3447eb1565b3affaf65721506beb8ba56a2a47cb0f307a51369c55c971d32b85",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/1-real.jpg",
+      "local": "assets/comparisons/1-real.jpg",
+      "originalDimensions": [
+        1008,
+        720
+      ],
+      "dimensions": [
+        1008,
+        720
+      ],
+      "bytes": 229843,
+      "sha256": "56b5c17a1f94d60ba34839114d4f04869f13ad70707393bfa67391def39fc000",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/1-3d.jpg",
+      "local": "assets/comparisons/1-3d.jpg",
+      "originalDimensions": [
+        1008,
+        720
+      ],
+      "dimensions": [
+        1008,
+        720
+      ],
+      "bytes": 293421,
+      "sha256": "69ef9eb122d681e3359eba24534b19b3c0866195150199a5af384035bcc24cce",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/2-real.jpg",
+      "local": "assets/comparisons/2-real.jpg",
+      "originalDimensions": [
+        1024,
+        575
+      ],
+      "dimensions": [
+        1024,
+        575
+      ],
+      "bytes": 435722,
+      "sha256": "e7d00d68d564ff684e7f1ebc28c0998ebd6c2f7870d980a9965d6ab0bfa35a7e",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/2-3d.jpg",
+      "local": "assets/comparisons/2-3d.jpg",
+      "originalDimensions": [
+        1024,
+        575
+      ],
+      "dimensions": [
+        1024,
+        575
+      ],
+      "bytes": 441168,
+      "sha256": "e715433b905269630b04ea2fa324c5ed593c4d3e81d6a1174e1b54287978c6bc",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/3-real.jpg",
+      "local": "assets/comparisons/3-real.jpg",
+      "originalDimensions": [
+        1600,
+        890
+      ],
+      "dimensions": [
+        1600,
+        890
+      ],
+      "bytes": 196550,
+      "sha256": "373a801fd5538b4e52fa3139a6f9e68eff266014527112ca6234501c71242ed6",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/3-3d.jpg",
+      "local": "assets/comparisons/3-3d.jpg",
+      "originalDimensions": [
+        1600,
+        890
+      ],
+      "dimensions": [
+        1600,
+        890
+      ],
+      "bytes": 290944,
+      "sha256": "412949553f4e0ed6f0c90d9768182d76a2130458d511ef5d1c4c9708a34def21",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/4-real.jpg",
+      "local": "assets/comparisons/4-real.jpg",
+      "originalDimensions": [
+        1400,
+        712
+      ],
+      "dimensions": [
+        1400,
+        712
+      ],
+      "bytes": 341272,
+      "sha256": "9a83644325b94f70a767f0b5681e0902ba2ffdd285516fc74a4891228f2fafa0",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/4-3d.jpg",
+      "local": "assets/comparisons/4-3d.jpg",
+      "originalDimensions": [
+        1400,
+        712
+      ],
+      "dimensions": [
+        1400,
+        712
+      ],
+      "bytes": 354545,
+      "sha256": "800d2bd6679223d5a977d2f326e18c439c62167e8c636c33a12cf9a3f5166d67",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/5-real.jpg",
+      "local": "assets/comparisons/5-real.jpg",
+      "originalDimensions": [
+        1008,
+        720
+      ],
+      "dimensions": [
+        1008,
+        720
+      ],
+      "bytes": 367024,
+      "sha256": "7ffb44533855b3d1c0bce2a50fe5c0862bfff7fc1958f298ac949d965ddf5dea",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/5-3d.jpg",
+      "local": "assets/comparisons/5-3d.jpg",
+      "originalDimensions": [
+        1008,
+        720
+      ],
+      "dimensions": [
+        1008,
+        720
+      ],
+      "bytes": 487736,
+      "sha256": "2513e933d36fdbc55db44922a0f7ac3fb836f9d5f8f68930c8e242e26ffea8e6",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/6-real.jpg",
+      "local": "assets/comparisons/6-real.jpg",
+      "originalDimensions": [
+        1500,
+        1000
+      ],
+      "dimensions": [
+        1500,
+        1000
+      ],
+      "bytes": 462829,
+      "sha256": "3169ad6be8221fa7329f8b9abffb75b1066f1a695adbfa2fbfa3a44b4e46a812",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/6-3d.jpg",
+      "local": "assets/comparisons/6-3d.jpg",
+      "originalDimensions": [
+        1500,
+        1000
+      ],
+      "dimensions": [
+        1500,
+        1000
+      ],
+      "bytes": 420727,
+      "sha256": "5ad8177a72d77569b765ecf39c44c7727461f44b10cf657e5a2616454c4255df",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/7-real.jpg",
+      "local": "assets/comparisons/7-real.jpg",
+      "originalDimensions": [
+        1200,
+        750
+      ],
+      "dimensions": [
+        1200,
+        750
+      ],
+      "bytes": 245473,
+      "sha256": "950ec33dce8ac6276355753c74206c76f4047944c3857158247c2f135dd67f04",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/7-3d.jpg",
+      "local": "assets/comparisons/7-3d.jpg",
+      "originalDimensions": [
+        1200,
+        750
+      ],
+      "dimensions": [
+        1200,
+        750
+      ],
+      "bytes": 314572,
+      "sha256": "3f0adef9beba8d9f0314398591ebc0f6e7fc878f7eef0c4322413690fa248537",
+      "unmodifiedOriginal": true
+    }
+  ],
+  "team": [
+    {
+      "name": "Jayaraj P",
+      "role": "Managing Director",
+      "source": "https://nihaara.com/assets/staff-images/Jayaraj.jpg",
+      "image": "assets/team/team-01.jpg"
+    },
+    {
+      "name": "Vaisakh V",
+      "role": "Manager",
+      "source": "https://nihaara.com/assets/staff-images/Vaisakh.jpg",
+      "image": "assets/team/team-02.jpg"
+    },
+    {
+      "name": "Ashlin Sebastian",
+      "role": "Accountant",
+      "source": "https://nihaara.com/assets/staff-images/Ashlin.jpg",
+      "image": "assets/team/team-03.jpg"
+    },
+    {
+      "name": "Dony Dominic",
+      "role": "Site Engineer",
+      "source": "https://nihaara.com/assets/staff-images/Dony.jpg",
+      "image": "assets/team/team-04.jpg"
+    },
+    {
+      "name": "Shahana Shaji",
+      "role": "Quantity Surveyor",
+      "source": "https://nihaara.com/assets/staff-images/Shahana1.jpg",
+      "image": "assets/team/team-05.jpg"
+    },
+    {
+      "name": "SREERAJ K",
+      "role": "Interior Designer",
+      "source": "https://nihaara.com/assets/staff-images/Sreeraj.jpg",
+      "image": "assets/team/team-06.jpg"
+    },
+    {
+      "name": "Nija SM",
+      "role": "Interior Designer",
+      "source": "https://nihaara.com/assets/staff-images/Nija.jpg",
+      "image": "assets/team/team-07.jpg"
+    },
+    {
+      "name": "Bharath N",
+      "role": "Site Supervisor",
+      "source": "https://nihaara.com/assets/staff-images/Bharath1.jpg",
+      "image": "assets/team/team-08.jpg"
+    },
+    {
+      "name": "Sandra Sanal",
+      "role": "Designer",
+      "source": "https://nihaara.com/assets/staff-images/Sandra1.jpg",
+      "image": "assets/team/team-09.jpg"
+    },
+    {
+      "name": "Adarsh Biju",
+      "role": "Site Supervisor",
+      "source": "https://nihaara.com/assets/staff-images/Adarsh.jpg",
+      "image": "assets/team/team-10.jpg"
+    },
+    {
+      "name": "Deepthy KC",
+      "role": "Designer",
+      "source": "https://nihaara.com/assets/staff-images/Deepthy.jpg",
+      "image": "assets/team/team-11.jpg"
+    },
+    {
+      "name": "Nimisha  Binoy",
+      "role": "Designer",
+      "source": "https://nihaara.com/assets/staff-images/Nimisha.jpg",
+      "image": "assets/team/team-12.jpg"
+    },
+    {
+      "name": "Amrutha K",
+      "role": "Interior Designer",
+      "source": "https://nihaara.com/assets/staff-images/Amrutha.jpeg",
+      "image": "assets/team/team-13.jpg"
+    },
+    {
+      "name": "Harikrishnan R",
+      "role": "Site Supervisor",
+      "source": "https://nihaara.com/assets/staff-images/Hari1.jpg",
+      "image": "assets/team/team-14.jpg"
+    },
+    {
+      "name": "Bibin Baby",
+      "role": "Driver",
+      "source": "https://nihaara.com/assets/staff-images/Bibin.jpg",
+      "image": "assets/team/team-15.jpg"
+    }
+  ],
+  "logo": "User-supplied 01-1000015408.png; transparency-preserving crops",
+  "brandReference": "User-supplied 02-1000015407.jpg",
+  "fonts": [
+    "https://fonts.google.com/specimen/Instrument+Serif",
+    "https://fonts.google.com/specimen/DM+Sans"
+  ],
+  "originalQualityImages": [
+    {
+      "source": "https://nihaara.com/assets/projects/project0.jpg",
+      "old": "assets/projects/project-01.webp",
+      "local": "assets/projects/project-01.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1089770,
+      "format": "JPEG",
+      "sha256": "3eb2f5fba1203f7c43624142731b4ae5eb796423c89809662a238b1955aa51d1",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/projects/project1.jpg",
+      "old": "assets/projects/project-02.webp",
+      "local": "assets/projects/project-02.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 936609,
+      "format": "JPEG",
+      "sha256": "7956ef1a42343d666f7b9d7a7c16b23943e3be51d301daf45155adc57ee77eb7",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/projects/project2.jpg",
+      "old": "assets/projects/project-03.webp",
+      "local": "assets/projects/project-03.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1236832,
+      "format": "JPEG",
+      "sha256": "1de64c6c8f52323ea248decfb0ca7297f3ee33b3790b4bb84834dcf309332bd5",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/projects/project3.jpg",
+      "old": "assets/projects/project-04.webp",
+      "local": "assets/projects/project-04.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 786582,
+      "format": "JPEG",
+      "sha256": "b058513de2bfd9ec5955e5547ea0f47a1ef603dc91cfd6fac4a3d37afe9f5281",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/projects/project4.jpg",
+      "old": "assets/projects/project-05.webp",
+      "local": "assets/projects/project-05.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1056566,
+      "format": "JPEG",
+      "sha256": "3527ac7624437445ebe87def808993935d3ac3572f52a57129a45df049f4021b",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/projects/project5.jpg",
+      "old": "assets/projects/project-06.webp",
+      "local": "assets/projects/project-06.jpg",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "bytes": 149582,
+      "format": "JPEG",
+      "sha256": "0c614399ff0d9073b3ffc63db44ddc5795547ac8962d9f288ce9492811b30e9e",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/projects/project6.jpg",
+      "old": "assets/projects/project-07.webp",
+      "local": "assets/projects/project-07.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 833869,
+      "format": "JPEG",
+      "sha256": "d90441571697840f84f7f000cef0f0550e7fd0359715b7395753a24a1fe41f01",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/projects/project7.jpg",
+      "old": "assets/projects/project-08.webp",
+      "local": "assets/projects/project-08.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 771429,
+      "format": "JPEG",
+      "sha256": "7beaac971188d511d982ed2c685e0eccef3b0136ba795b6ca15380749f34c5d9",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image33.jpg",
+      "old": "assets/gallery/gallery-001.webp",
+      "local": "assets/gallery/gallery-001.jpg",
+      "dimensions": [
+        1548,
+        1080
+      ],
+      "bytes": 84798,
+      "format": "JPEG",
+      "sha256": "0163ab73daa5c0601a051b0eeb6a56637b84c7195ed37fcdbfde7f7ad86f8558",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/56DC175E-8A88-4D32-81FF-68C35D367242.jpg",
+      "old": "assets/gallery/gallery-002.webp",
+      "local": "assets/gallery/gallery-002.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 6906444,
+      "format": "JPEG",
+      "sha256": "c4aef77081ab152862f2d05bc0dd7e7c793239c16a945f2ee428d3d33becbd77",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/3773E1FE-8BAA-4513-98AF-9FA752C2A4FA.jpg",
+      "old": "assets/gallery/gallery-003.webp",
+      "local": "assets/gallery/gallery-003.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 6547307,
+      "format": "JPEG",
+      "sha256": "4bbc3a8d8cdf7172993712d30b45338ee2777389b393d56dd355e854562fdba1",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image13.jpg",
+      "old": "assets/gallery/gallery-004.webp",
+      "local": "assets/gallery/gallery-004.jpg",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "bytes": 96902,
+      "format": "JPEG",
+      "sha256": "8f76c3f0a899b95cf9a4ec69f4cf6ad6db3ee495dc08f5218a21600ed46c0fae",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20224104.jpg",
+      "old": "assets/gallery/gallery-005.webp",
+      "local": "assets/gallery/gallery-005.jpg",
+      "dimensions": [
+        700,
+        505
+      ],
+      "bytes": 56532,
+      "format": "JPEG",
+      "sha256": "a6cb087d061274da9f62c56b608a91c7dd4a2c265ed30b200c89f0224068656f",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20224138.jpg",
+      "old": "assets/gallery/gallery-006.webp",
+      "local": "assets/gallery/gallery-006.jpg",
+      "dimensions": [
+        1132,
+        633
+      ],
+      "bytes": 102234,
+      "format": "JPEG",
+      "sha256": "3d850f86c8992b29f913a84312c4f6ea1ea5fb589885ea397ea50f5dcfa880ee",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project9.jpg",
+      "old": "assets/gallery/gallery-007.webp",
+      "local": "assets/gallery/gallery-007.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 828763,
+      "format": "JPEG",
+      "sha256": "e98cf0192711a05ace5145db095c957b78f7e3b9891e0d7f263e55c3107e0a51",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image14.jpg",
+      "old": "assets/gallery/gallery-008.webp",
+      "local": "assets/gallery/gallery-008.jpg",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "bytes": 102304,
+      "format": "JPEG",
+      "sha256": "c60b4613cc918a62128e341a0afc189294e8d899e85b475f4b68a2a28772d869",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project13.jpg",
+      "old": "assets/gallery/gallery-009.webp",
+      "local": "assets/gallery/gallery-009.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 712285,
+      "format": "JPEG",
+      "sha256": "dfdde37d16a2620e94cd6f3e16c63b5e7090605a2f4e0f9366d0eb480069acb8",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/D318DD8B-8F80-4B8D-A77A-8DF8B2896C8F.jpg",
+      "old": "assets/gallery/gallery-010.webp",
+      "local": "assets/gallery/gallery-010.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 5222730,
+      "format": "JPEG",
+      "sha256": "6e431cffd21748d8c51ec5a1a5751b59b6c130e72441bd196ba8bec5ce8bb2fe",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image8.jpg",
+      "old": "assets/gallery/gallery-011.webp",
+      "local": "assets/gallery/gallery-011.jpg",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 57320,
+      "format": "JPEG",
+      "sha256": "e3f6176c783466caf780e0293caeac66c5c528b736fdefc130a31ff2d3d8a8fe",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image16.jpg",
+      "old": "assets/gallery/gallery-012.webp",
+      "local": "assets/gallery/gallery-012.jpg",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 42182,
+      "format": "JPEG",
+      "sha256": "0ae8e589ae0826fe50e61c0251f9ba1a8ab39fe78a40586ee266a61968763f13",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image18.jpg",
+      "old": "assets/gallery/gallery-013.webp",
+      "local": "assets/gallery/gallery-013.jpg",
+      "dimensions": [
+        1280,
+        960
+      ],
+      "bytes": 47274,
+      "format": "JPEG",
+      "sha256": "cdeb211cc542bb75a630ba709a264b0b133b14cf81d11b6a7a29fcbb8e8b79f6",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/FCA9BBF6-0120-4D7A-9CEA-1B9150A540CE.jpg",
+      "old": "assets/gallery/gallery-014.webp",
+      "local": "assets/gallery/gallery-014.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 5697902,
+      "format": "JPEG",
+      "sha256": "c2785769973476c7a632c306bbd1420ad6bc7aec56efeecac222bd7e9f9de937",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/AC41B98C-08E6-400B-8301-24F2FCC9E482.jpg",
+      "old": "assets/gallery/gallery-015.webp",
+      "local": "assets/gallery/gallery-015.jpg",
+      "dimensions": [
+        7680,
+        4320
+      ],
+      "bytes": 30339921,
+      "format": "JPEG",
+      "sha256": "fbd845a39251d133adf648024632560e6d0e3cedeebd9785a1af7f9c9754796e",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project3.jpg",
+      "old": "assets/gallery/gallery-016.webp",
+      "local": "assets/gallery/gallery-016.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 1197337,
+      "format": "JPEG",
+      "sha256": "6b12f28d975f67a6bfe6f8864d42d04a2864ba611ad0547c2d0c3c8803d2c18b",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image20.jpg",
+      "old": "assets/gallery/gallery-017.webp",
+      "local": "assets/gallery/gallery-017.jpg",
+      "dimensions": [
+        1280,
+        960
+      ],
+      "bytes": 64409,
+      "format": "JPEG",
+      "sha256": "809d4c9f9b6e9df73aca94875fe33591f18ab7301d973760fa79f898f18ae32c",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project8.jpg",
+      "old": "assets/gallery/gallery-018.webp",
+      "local": "assets/gallery/gallery-018.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 936609,
+      "format": "JPEG",
+      "sha256": "7956ef1a42343d666f7b9d7a7c16b23943e3be51d301daf45155adc57ee77eb7",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image27.jpg",
+      "old": "assets/gallery/gallery-019.webp",
+      "local": "assets/gallery/gallery-019.jpg",
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "bytes": 74725,
+      "format": "JPEG",
+      "sha256": "34de9f23bd499c9469d5ed1012584cecb03154abf037acceb97e21af368bc694",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image2.jpg",
+      "old": "assets/gallery/gallery-020.webp",
+      "local": "assets/gallery/gallery-020.jpg",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 88937,
+      "format": "JPEG",
+      "sha256": "7f9e551c7090b68a37f0a1fb50929de3068e6219750669d1802f9934ee3df7dd",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/D7D9C116-7306-4BB3-B5CA-91B0B8931496.jpg",
+      "old": "assets/gallery/gallery-021.webp",
+      "local": "assets/gallery/gallery-021.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 6311929,
+      "format": "JPEG",
+      "sha256": "6dbd65ec456cae7df5412489b5271f883271987a9a79b92a739080291cfddc0a",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project40.jpg",
+      "old": "assets/gallery/gallery-022.webp",
+      "local": "assets/gallery/gallery-022.jpg",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "bytes": 120729,
+      "format": "JPEG",
+      "sha256": "3f61be8d4d283cc6b9f107683d5762957520476d013f95ec971a19ecbffe1d61",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20224156.jpg",
+      "old": "assets/gallery/gallery-023.webp",
+      "local": "assets/gallery/gallery-023.jpg",
+      "dimensions": [
+        1137,
+        637
+      ],
+      "bytes": 91699,
+      "format": "JPEG",
+      "sha256": "d2ee461c69c2dc4fd20d44c2c2afd294e12fecb8862c15e894900e927675553e",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project44.jpg",
+      "old": "assets/gallery/gallery-024.webp",
+      "local": "assets/gallery/gallery-024.jpg",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "bytes": 149582,
+      "format": "JPEG",
+      "sha256": "0c614399ff0d9073b3ffc63db44ddc5795547ac8962d9f288ce9492811b30e9e",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image6.jpg",
+      "old": "assets/gallery/gallery-025.webp",
+      "local": "assets/gallery/gallery-025.jpg",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 85266,
+      "format": "JPEG",
+      "sha256": "3cdceb9732dea0af5a3d5d4eefc1b1355f140ebbae8a9357328472dd5ef61dd3",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image12.jpg",
+      "old": "assets/gallery/gallery-026.webp",
+      "local": "assets/gallery/gallery-026.jpg",
+      "dimensions": [
+        1600,
+        921
+      ],
+      "bytes": 96909,
+      "format": "JPEG",
+      "sha256": "1dde67c091f13c15cfd6a57e3e5cd084b223a3049f4763bcf3e23e32e9896172",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/55349ADE-9D0D-4B7E-81AF-C3679E679E78.jpg",
+      "old": "assets/gallery/gallery-027.webp",
+      "local": "assets/gallery/gallery-027.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 6412420,
+      "format": "JPEG",
+      "sha256": "674eb62520addd26a7ada8bc2be5e97d134f2457ab0dda74b6a604529797acdc",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image10.jpg",
+      "old": "assets/gallery/gallery-028.webp",
+      "local": "assets/gallery/gallery-028.jpg",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 62880,
+      "format": "JPEG",
+      "sha256": "c4c14a43ed425935c9dafc36c953e178cc3e5aaca94efa616c067fea0261f733",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project28.jpg",
+      "old": "assets/gallery/gallery-029.webp",
+      "local": "assets/gallery/gallery-029.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 713189,
+      "format": "JPEG",
+      "sha256": "5e3a9d319ba12a653a8099a1c7c477facfce981561e9dd265d445b095a4534bc",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image30.jpg",
+      "old": "assets/gallery/gallery-030.webp",
+      "local": "assets/gallery/gallery-030.jpg",
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "bytes": 100386,
+      "format": "JPEG",
+      "sha256": "69cb295d5a18dd6a2e94d0b4c9263b695abfb541800984f4a7280a6048f6f2a0",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project2.jpg",
+      "old": "assets/gallery/gallery-031.webp",
+      "local": "assets/gallery/gallery-031.jpg",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 54555,
+      "format": "JPEG",
+      "sha256": "90a48ac4ff0fdc35b20983e97fbb64afb04ce57c0f29dd8d51d6890f50a06dfd",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image3.jpg",
+      "old": "assets/gallery/gallery-032.webp",
+      "local": "assets/gallery/gallery-032.jpg",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 98166,
+      "format": "JPEG",
+      "sha256": "329e54aa3410afebaa247806f83fcde0c4139a5c41e444dad44e4b2015d5f9b5",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project51.jpg",
+      "old": "assets/gallery/gallery-033.webp",
+      "local": "assets/gallery/gallery-033.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 786582,
+      "format": "JPEG",
+      "sha256": "b058513de2bfd9ec5955e5547ea0f47a1ef603dc91cfd6fac4a3d37afe9f5281",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20223835.jpg",
+      "old": "assets/gallery/gallery-034.webp",
+      "local": "assets/gallery/gallery-034.jpg",
+      "dimensions": [
+        978,
+        546
+      ],
+      "bytes": 68744,
+      "format": "JPEG",
+      "sha256": "0196c8568a1d3a95ab6ee598248cce90959e5c5dfb9c13260442188c1f696a33",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image1.jpg",
+      "old": "assets/gallery/gallery-035.webp",
+      "local": "assets/gallery/gallery-035.jpg",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 66276,
+      "format": "JPEG",
+      "sha256": "904a476bf6496482f95d064c4baf124634a55c3afe4f865afcb968fd0d152adf",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project31.jpg",
+      "old": "assets/gallery/gallery-036.webp",
+      "local": "assets/gallery/gallery-036.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 836107,
+      "format": "JPEG",
+      "sha256": "ace0d587c0cbc5c05f9d57991c8f72e6d6685092499f4dd3c6686792f23264d7",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image32.jpg",
+      "old": "assets/gallery/gallery-037.webp",
+      "local": "assets/gallery/gallery-037.jpg",
+      "dimensions": [
+        1593,
+        1080
+      ],
+      "bytes": 60674,
+      "format": "JPEG",
+      "sha256": "298a538bb906482bae5933a673dd47da5ffae2940e9ecac40662b90603e19193",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project1.jpg",
+      "old": "assets/gallery/gallery-038.webp",
+      "local": "assets/gallery/gallery-038.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 720064,
+      "format": "JPEG",
+      "sha256": "ac55da2a4ff99bd0544cb9b8efca1655e2b182ff51e5f61c0c2c43fb2e52509b",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project27.jpg",
+      "old": "assets/gallery/gallery-039.webp",
+      "local": "assets/gallery/gallery-039.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1178006,
+      "format": "JPEG",
+      "sha256": "8f2f2eb888e85dfeb0bb94ef51de432a795b3ccbf7d0a1144ceb08997ff0f3ce",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project22.jpg",
+      "old": "assets/gallery/gallery-040.webp",
+      "local": "assets/gallery/gallery-040.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 925115,
+      "format": "JPEG",
+      "sha256": "f1037ef53e60375e61357800a607fff0b83b01410ac89ab05e8a863b75125dec",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image31.jpg",
+      "old": "assets/gallery/gallery-041.webp",
+      "local": "assets/gallery/gallery-041.jpg",
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "bytes": 53926,
+      "format": "JPEG",
+      "sha256": "a51372376ffe790e6bc4bc0bfa0504887f0c04e7da5efb8036b90e85751ec8e6",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project47.jpg",
+      "old": "assets/gallery/gallery-042.webp",
+      "local": "assets/gallery/gallery-042.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 685685,
+      "format": "JPEG",
+      "sha256": "29b9b84fb0cf657b192f24231a27ec0ae17b24b2104b4d2da8465c5732b4bff0",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20223958.jpg",
+      "old": "assets/gallery/gallery-043.webp",
+      "local": "assets/gallery/gallery-043.jpg",
+      "dimensions": [
+        1328,
+        746
+      ],
+      "bytes": 198581,
+      "format": "JPEG",
+      "sha256": "fd225802ee5d9805a1b8069768ae1edbf200243de625033bfe970b60ac962b46",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project46.jpg",
+      "old": "assets/gallery/gallery-044.webp",
+      "local": "assets/gallery/gallery-044.jpg",
+      "dimensions": [
+        1152,
+        720
+      ],
+      "bytes": 61876,
+      "format": "JPEG",
+      "sha256": "487993d8ba48886f14491a88d46c3341506909cfece437f01272a40fc3d141e7",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image5.jpg",
+      "old": "assets/gallery/gallery-045.webp",
+      "local": "assets/gallery/gallery-045.jpg",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 81961,
+      "format": "JPEG",
+      "sha256": "61b6c1d566f5bc4ab6f6c3bdfc7474e6c7012bfb6a997970b4c80fefa8893fb7",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project19.jpg",
+      "old": "assets/gallery/gallery-046.webp",
+      "local": "assets/gallery/gallery-046.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1330331,
+      "format": "JPEG",
+      "sha256": "f4ba475645e4bccdbaa3e1f7cc36e103a54b6d52af297cfe459acc88495929b8",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project41.jpg",
+      "old": "assets/gallery/gallery-047.webp",
+      "local": "assets/gallery/gallery-047.jpg",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "bytes": 148978,
+      "format": "JPEG",
+      "sha256": "bac1a6e6695ed22ac709b81a8a24c7f6ff0bf956d575d6b76cf4e2a1dc12cbc4",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image17.jpg",
+      "old": "assets/gallery/gallery-048.webp",
+      "local": "assets/gallery/gallery-048.jpg",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "bytes": 85530,
+      "format": "JPEG",
+      "sha256": "e38b209c6c290332dee6c9a50649ca07e7276d86ef9767387e922035a80f7ee0",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project32.jpg",
+      "old": "assets/gallery/gallery-049.webp",
+      "local": "assets/gallery/gallery-049.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 771429,
+      "format": "JPEG",
+      "sha256": "7beaac971188d511d982ed2c685e0eccef3b0136ba795b6ca15380749f34c5d9",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project7.jpg",
+      "old": "assets/gallery/gallery-050.webp",
+      "local": "assets/gallery/gallery-050.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1019764,
+      "format": "JPEG",
+      "sha256": "af5afdf795bb353a28fc7df62f73624cbf8ac2e8bbe69cc49058cc2aaa4ec61e",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project14.jpg",
+      "old": "assets/gallery/gallery-051.webp",
+      "local": "assets/gallery/gallery-051.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1100384,
+      "format": "JPEG",
+      "sha256": "946a6d25a89740f7f272431b209f481250258120c5a75fae767eb6ee2052b236",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20223752.jpg",
+      "old": "assets/gallery/gallery-052.webp",
+      "local": "assets/gallery/gallery-052.jpg",
+      "dimensions": [
+        1068,
+        673
+      ],
+      "bytes": 117421,
+      "format": "JPEG",
+      "sha256": "b86920f11b0179c8224ca90d3d65f12e4d8c412b82cfe90ad9b1e0d4127e15a3",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/CECDCA03-62AD-4C91-A06F-F89E4AA2611E.jpg",
+      "old": "assets/gallery/gallery-053.webp",
+      "local": "assets/gallery/gallery-053.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 4866738,
+      "format": "JPEG",
+      "sha256": "855cd7a729d50727639754458069e79d79d39b8a194d0f0d40cfbc4ea7441854",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project18.jpg",
+      "old": "assets/gallery/gallery-054.webp",
+      "local": "assets/gallery/gallery-054.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1056566,
+      "format": "JPEG",
+      "sha256": "3527ac7624437445ebe87def808993935d3ac3572f52a57129a45df049f4021b",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image4.jpg",
+      "old": "assets/gallery/gallery-055.webp",
+      "local": "assets/gallery/gallery-055.jpg",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 60850,
+      "format": "JPEG",
+      "sha256": "bfa7bc00a44cc996345e1d66a353a56ce3e83ccefba3e26dd9cca88bc8220071",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20223816.jpg",
+      "old": "assets/gallery/gallery-056.webp",
+      "local": "assets/gallery/gallery-056.jpg",
+      "dimensions": [
+        900,
+        507
+      ],
+      "bytes": 62448,
+      "format": "JPEG",
+      "sha256": "33b9be686dedbe11a663876921c3bcabc1741acf4fc7a72c93128ab51da402d9",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project12.jpg",
+      "old": "assets/gallery/gallery-057.webp",
+      "local": "assets/gallery/gallery-057.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1320914,
+      "format": "JPEG",
+      "sha256": "224a5eac0ffdf79eb9ab1e13cf99419b8c440457f35bc4fc25692a7dd9ef713d",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image29.jpg",
+      "old": "assets/gallery/gallery-058.webp",
+      "local": "assets/gallery/gallery-058.jpg",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "bytes": 68438,
+      "format": "JPEG",
+      "sha256": "ee23d2eff7803858ca9f0e07b2b60d62d2c5dd657076564f0c47bbcd81902158",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project20.jpg",
+      "old": "assets/gallery/gallery-059.webp",
+      "local": "assets/gallery/gallery-059.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 727500,
+      "format": "JPEG",
+      "sha256": "c27b7caf69eaf30ec7b29d1896e3c2842ea82cae0246b0997b3cc4b265ff35d6",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image19.jpg",
+      "old": "assets/gallery/gallery-060.webp",
+      "local": "assets/gallery/gallery-060.jpg",
+      "dimensions": [
+        1280,
+        960
+      ],
+      "bytes": 72387,
+      "format": "JPEG",
+      "sha256": "99b4e2a12338df586ec4a32557d845665ded4d340380143a11bb67a5c9692075",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/30483078-D3D4-4A9A-BAE6-C2628DB662C8.jpg",
+      "old": "assets/gallery/gallery-061.webp",
+      "local": "assets/gallery/gallery-061.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 6959741,
+      "format": "JPEG",
+      "sha256": "35e1173314d953538eeadfbcba7089919ec7dca018d91892c956ecba6ce878ca",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image0.jpg",
+      "old": "assets/gallery/gallery-062.webp",
+      "local": "assets/gallery/gallery-062.jpg",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 52709,
+      "format": "JPEG",
+      "sha256": "941758145d20f310f3d0ca3b216d54fe4826f2ab3c3a651e14066cec4377c856",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20224014.jpg",
+      "old": "assets/gallery/gallery-063.webp",
+      "local": "assets/gallery/gallery-063.jpg",
+      "dimensions": [
+        1328,
+        821
+      ],
+      "bytes": 121415,
+      "format": "JPEG",
+      "sha256": "ae4059311dee37b7ddbce5e2eeba1d4f9e187717673a85585d684e6beb74650c",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20224120.jpg",
+      "old": "assets/gallery/gallery-064.webp",
+      "local": "assets/gallery/gallery-064.jpg",
+      "dimensions": [
+        1063,
+        743
+      ],
+      "bytes": 114103,
+      "format": "JPEG",
+      "sha256": "5117b9eaa104682d83bede6ccb281bcbeabec3782956dcd873dbfbca7595f407",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project42.jpg",
+      "old": "assets/gallery/gallery-065.webp",
+      "local": "assets/gallery/gallery-065.jpg",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "bytes": 141238,
+      "format": "JPEG",
+      "sha256": "da57e36da069bd847f64682a3e13f3478084aa97f6f4a90a4b7cc81b7912276d",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/14CBE357-5CA1-4EC9-AB68-5AFD2D7807D5.jpg",
+      "old": "assets/gallery/gallery-066.webp",
+      "local": "assets/gallery/gallery-066.jpg",
+      "dimensions": [
+        7680,
+        4320
+      ],
+      "bytes": 23661588,
+      "format": "JPEG",
+      "sha256": "de4e3826c948d96020b509d723ba07c560feeaef1585fed9f75ff8fbc0fcfdaf",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project15.jpg",
+      "old": "assets/gallery/gallery-067.webp",
+      "local": "assets/gallery/gallery-067.jpg",
+      "dimensions": [
+        4800,
+        2696
+      ],
+      "bytes": 801143,
+      "format": "JPEG",
+      "sha256": "e599894423d8a74ce63b44e714da76e6671d7df65f192225f3ebf290ce45aaa0",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project52.jpg",
+      "old": "assets/gallery/gallery-068.webp",
+      "local": "assets/gallery/gallery-068.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 989801,
+      "format": "JPEG",
+      "sha256": "55e85fea39d0d8f802f319af050b938f702ff3bd97f745550641e82e952ef9a9",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image25.jpg",
+      "old": "assets/gallery/gallery-069.webp",
+      "local": "assets/gallery/gallery-069.jpg",
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "bytes": 91243,
+      "format": "JPEG",
+      "sha256": "7d3be5a1b8d10c09832487c41e32de9b74da700c53fab4578150afe9b12b0528",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image9.jpg",
+      "old": "assets/gallery/gallery-070.webp",
+      "local": "assets/gallery/gallery-070.jpg",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 56454,
+      "format": "JPEG",
+      "sha256": "4348e6acdf1d63a4b2d652d55f8288539a22961129e1882307eb2fdadf7b1a39",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project6.jpg",
+      "old": "assets/gallery/gallery-071.webp",
+      "local": "assets/gallery/gallery-071.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 654835,
+      "format": "JPEG",
+      "sha256": "085ab9953373558fc1c34a2576434fddac971033a1dbbb7b3cf366217911209a",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image24.jpg",
+      "old": "assets/gallery/gallery-072.webp",
+      "local": "assets/gallery/gallery-072.jpg",
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "bytes": 113803,
+      "format": "JPEG",
+      "sha256": "15cc4b51cdafc3a1477fbf00539cd481242c9dccf80e4394aa943f8f92d809de",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project24.jpg",
+      "old": "assets/gallery/gallery-073.webp",
+      "local": "assets/gallery/gallery-073.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1236832,
+      "format": "JPEG",
+      "sha256": "1de64c6c8f52323ea248decfb0ca7297f3ee33b3790b4bb84834dcf309332bd5",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project5.jpg",
+      "old": "assets/gallery/gallery-074.webp",
+      "local": "assets/gallery/gallery-074.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1035190,
+      "format": "JPEG",
+      "sha256": "749975d4362eca862643b86054bd975a99cd8ea0bf2611a0ff1d79bad8e4c3d9",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/26861621-B406-49F1-AAA9-91A95D7A1997.jpg",
+      "old": "assets/gallery/gallery-075.webp",
+      "local": "assets/gallery/gallery-075.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 6521562,
+      "format": "JPEG",
+      "sha256": "218a5ea8245bd5f6d50fdb472530de8b034b8a7522808a7de1a4f48f02f61590",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project39.jpg",
+      "old": "assets/gallery/gallery-076.webp",
+      "local": "assets/gallery/gallery-076.jpg",
+      "dimensions": [
+        1600,
+        896
+      ],
+      "bytes": 133588,
+      "format": "JPEG",
+      "sha256": "ce65ce47480a547624b341b65d64ff9f5d7aa77c52a6a2f68cc147d767449a2b",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project33.jpg",
+      "old": "assets/gallery/gallery-077.webp",
+      "local": "assets/gallery/gallery-077.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 730987,
+      "format": "JPEG",
+      "sha256": "d51b3455ad2e2f3230d77a2938313e0e90c793d419bed56c48c26877f083b460",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project48.jpg",
+      "old": "assets/gallery/gallery-078.webp",
+      "local": "assets/gallery/gallery-078.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 705817,
+      "format": "JPEG",
+      "sha256": "5475f1eed54238beaf83c130df5a1cf07b62f115fbe0277387f7e9ffb106de78",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project21.jpg",
+      "old": "assets/gallery/gallery-079.webp",
+      "local": "assets/gallery/gallery-079.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 759756,
+      "format": "JPEG",
+      "sha256": "f701d4cce52d3598379d739a71563c1cfbd8f1abd1876f1c3f1c6fe4b4505936",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image15.jpg",
+      "old": "assets/gallery/gallery-080.webp",
+      "local": "assets/gallery/gallery-080.jpg",
+      "dimensions": [
+        1600,
+        1263
+      ],
+      "bytes": 98394,
+      "format": "JPEG",
+      "sha256": "778170649c5e9d53b8afe97674785de9468fad5b714e7e78e1b6f113cb0e5244",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image11.jpg",
+      "old": "assets/gallery/gallery-081.webp",
+      "local": "assets/gallery/gallery-081.jpg",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "bytes": 107406,
+      "format": "JPEG",
+      "sha256": "867d011e0b69366efc090f6efcef50dc82fbc6837b50e0521c92890ce8f2d83f",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image26.jpg",
+      "old": "assets/gallery/gallery-082.webp",
+      "local": "assets/gallery/gallery-082.jpg",
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "bytes": 82933,
+      "format": "JPEG",
+      "sha256": "a22bf1a10091756607a218f8c8733052eebf7dfdbe747b67b8795f8c229d20bf",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project49.jpg",
+      "old": "assets/gallery/gallery-083.webp",
+      "local": "assets/gallery/gallery-083.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 771309,
+      "format": "JPEG",
+      "sha256": "a4f75f600fa1bac5a89529e5d9346baebef04babb694b44681b49d339c088236",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project50.jpg",
+      "old": "assets/gallery/gallery-084.webp",
+      "local": "assets/gallery/gallery-084.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 952065,
+      "format": "JPEG",
+      "sha256": "a8343f36f7c3edc6e53c2f42169b6417d4876dd0d75188a0ad5ef0d46e8c47e4",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project10.jpg",
+      "old": "assets/gallery/gallery-085.webp",
+      "local": "assets/gallery/gallery-085.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 1089770,
+      "format": "JPEG",
+      "sha256": "3eb2f5fba1203f7c43624142731b4ae5eb796423c89809662a238b1955aa51d1",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project26.jpg",
+      "old": "assets/gallery/gallery-086.webp",
+      "local": "assets/gallery/gallery-086.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 820672,
+      "format": "JPEG",
+      "sha256": "e4331b8c8528fa4b0ad41af46296cdb7dddc3fd439ec5c63d6eb60a392a91297",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project25.jpg",
+      "old": "assets/gallery/gallery-087.webp",
+      "local": "assets/gallery/gallery-087.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 843699,
+      "format": "JPEG",
+      "sha256": "2196fd25462d8ec3eb9a2de76e90794fd9b935c476464529872f43c0ee13b59a",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project16.jpg",
+      "old": "assets/gallery/gallery-088.webp",
+      "local": "assets/gallery/gallery-088.jpg",
+      "dimensions": [
+        4800,
+        2696
+      ],
+      "bytes": 1230480,
+      "format": "JPEG",
+      "sha256": "3c5dc133f1ac754716e05a476c013125137aca57525fcc2b89d178337175103b",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project17.jpg",
+      "old": "assets/gallery/gallery-089.webp",
+      "local": "assets/gallery/gallery-089.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 762961,
+      "format": "JPEG",
+      "sha256": "b5100617b3fcd1d541807bc92c2996da8588cfb4135c1e5aa4c0f399cfee7ee9",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project35.jpg",
+      "old": "assets/gallery/gallery-090.webp",
+      "local": "assets/gallery/gallery-090.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 783415,
+      "format": "JPEG",
+      "sha256": "104fdbf75dcec543165b1dec4ea6f2a25d9e65cb31e0a2c5ed815a9659dba552",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image28.jpg",
+      "old": "assets/gallery/gallery-091.webp",
+      "local": "assets/gallery/gallery-091.jpg",
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "bytes": 85648,
+      "format": "JPEG",
+      "sha256": "85faae5aa1d3a18edea7eade9714d9361ba841bc071b7ada06b80673e0aefccb",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project4.jpg",
+      "old": "assets/gallery/gallery-092.webp",
+      "local": "assets/gallery/gallery-092.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 838093,
+      "format": "JPEG",
+      "sha256": "12656f96f105551f30e4dd536e91b3a2852ad0759a5cd463b7bd2c99f320facd",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image23.jpg",
+      "old": "assets/gallery/gallery-093.webp",
+      "local": "assets/gallery/gallery-093.jpg",
+      "dimensions": [
+        1280,
+        960
+      ],
+      "bytes": 36256,
+      "format": "JPEG",
+      "sha256": "0021f66571c88d186f802363c49ecdcf93247f4f6e08c0d7cfa7d570688d8d22",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20223909.jpg",
+      "old": "assets/gallery/gallery-094.webp",
+      "local": "assets/gallery/gallery-094.jpg",
+      "dimensions": [
+        790,
+        503
+      ],
+      "bytes": 72051,
+      "format": "JPEG",
+      "sha256": "9eda4d77a344044626fc5d1209b040327d59526fefe3a93c9cb3bd09478cac6a",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/08EAC207-5A66-43F7-BB54-7410F74CF295.jpg",
+      "old": "assets/gallery/gallery-095.webp",
+      "local": "assets/gallery/gallery-095.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 5588982,
+      "format": "JPEG",
+      "sha256": "47fbc18d273cb414f991bd8317baba7cf03d76d7593c220c64e69637881a5387",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project45.jpg",
+      "old": "assets/gallery/gallery-096.webp",
+      "local": "assets/gallery/gallery-096.jpg",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "bytes": 136524,
+      "format": "JPEG",
+      "sha256": "30cb814d515c7a28c5b787ce323f20b4dd53d9beea709db6e2950b1925176ab4",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project38.jpg",
+      "old": "assets/gallery/gallery-097.webp",
+      "local": "assets/gallery/gallery-097.jpg",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "bytes": 140000,
+      "format": "JPEG",
+      "sha256": "18db171675ffe323b592438bc2529dfa57fc8a91ca2ff92e495e509994d1a66e",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project30.jpg",
+      "old": "assets/gallery/gallery-098.webp",
+      "local": "assets/gallery/gallery-098.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 1030849,
+      "format": "JPEG",
+      "sha256": "1436f5bfb0a44d7f144a1aa9f4d0b8c4c35cabaa8b6e7690eb52fcb1f1859212",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image21.jpg",
+      "old": "assets/gallery/gallery-099.webp",
+      "local": "assets/gallery/gallery-099.jpg",
+      "dimensions": [
+        1280,
+        960
+      ],
+      "bytes": 61221,
+      "format": "JPEG",
+      "sha256": "e69cb0777ca88fed65a479261b06f222314b99094a22bfebfacc54af93d9d459",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20223935.jpg",
+      "old": "assets/gallery/gallery-100.webp",
+      "local": "assets/gallery/gallery-100.jpg",
+      "dimensions": [
+        905,
+        577
+      ],
+      "bytes": 69755,
+      "format": "JPEG",
+      "sha256": "2c1bca2866c4da24b0d862ebb9cdb101209b56d2af320021f03002b1913ea653",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/Screenshot%202023-12-06%20224043.jpg",
+      "old": "assets/gallery/gallery-101.webp",
+      "local": "assets/gallery/gallery-101.jpg",
+      "dimensions": [
+        857,
+        475
+      ],
+      "bytes": 53114,
+      "format": "JPEG",
+      "sha256": "4a51369eee9740a19c06d9bd99a9aaddb92e86a3bc9657b58585ad5982f95bcd",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image7.jpg",
+      "old": "assets/gallery/gallery-102.webp",
+      "local": "assets/gallery/gallery-102.jpg",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 62159,
+      "format": "JPEG",
+      "sha256": "690b7f76274386522ba1851428d70f0ffaf3bd6537af3299418f131440b6a45b",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/85E66C7A-232B-48D8-8ECB-BD796F9F2FFF.jpg",
+      "old": "assets/gallery/gallery-103.webp",
+      "local": "assets/gallery/gallery-103.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 6557891,
+      "format": "JPEG",
+      "sha256": "d17641f49bf492501c7b9be2b3f14e93ff5636b34d4b9a505674110cc6e3b4b7",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project36.jpg",
+      "old": "assets/gallery/gallery-104.webp",
+      "local": "assets/gallery/gallery-104.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 783439,
+      "format": "JPEG",
+      "sha256": "199e4b728556b4b87b8d93ec35ab6b44900f27dfcc33129db84390482eff78b4",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project34.jpg",
+      "old": "assets/gallery/gallery-105.webp",
+      "local": "assets/gallery/gallery-105.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 1227315,
+      "format": "JPEG",
+      "sha256": "d0ece657004549d2ab2a7f2cb65114f951f7b03024b7d03eabca002a2148c8d2",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project29.jpg",
+      "old": "assets/gallery/gallery-106.webp",
+      "local": "assets/gallery/gallery-106.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 1646394,
+      "format": "JPEG",
+      "sha256": "aebd8d24710e2e6e23d59a6351d33045e9f6fb569f1af2d57afe6f31f08a2f23",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project37.jpg",
+      "old": "assets/gallery/gallery-107.webp",
+      "local": "assets/gallery/gallery-107.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 666073,
+      "format": "JPEG",
+      "sha256": "db9b5ed321cfe24df0a9f2b561cabefbd67791d7164df6765cd27f0f7ad99998",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/F208B783-1D98-464F-BC43-82E3F9216C24.jpg",
+      "old": "assets/gallery/gallery-108.webp",
+      "local": "assets/gallery/gallery-108.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 6392879,
+      "format": "JPEG",
+      "sha256": "e213b3b97512c57f5b8c375e34f47cb5abfa879ceff932614863545229157c46",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/3C26778A-94C8-42EA-97BC-B2A17D6B3D04.jpg",
+      "old": "assets/gallery/gallery-109.webp",
+      "local": "assets/gallery/gallery-109.jpg",
+      "dimensions": [
+        7680,
+        4320
+      ],
+      "bytes": 25835521,
+      "format": "JPEG",
+      "sha256": "fb1fe3570014b74d9380fdb91af95d5419f76c8a04361876a49324631130f02b",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project43.jpg",
+      "old": "assets/gallery/gallery-110.webp",
+      "local": "assets/gallery/gallery-110.jpg",
+      "dimensions": [
+        1600,
+        896
+      ],
+      "bytes": 112371,
+      "format": "JPEG",
+      "sha256": "419e441bf125969a4ae073c4a4614b383df7fa4fa59f96da467fd9e8592f05af",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project23.jpg",
+      "old": "assets/gallery/gallery-111.webp",
+      "local": "assets/gallery/gallery-111.jpg",
+      "dimensions": [
+        4800,
+        2592
+      ],
+      "bytes": 852976,
+      "format": "JPEG",
+      "sha256": "b1b3b63a2d04cd77df6f874902be0c252c8a2978b4df7375600dc4f72b2f6cd7",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/FBA335D3-9138-449C-BDDE-3501659EED2D.jpg",
+      "old": "assets/gallery/gallery-112.webp",
+      "local": "assets/gallery/gallery-112.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 4898073,
+      "format": "JPEG",
+      "sha256": "05cac47a7f7920566c00db69638c0202a290da5ddec0da4b1e67a3c86d2ad1bc",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/image22.jpg",
+      "old": "assets/gallery/gallery-113.webp",
+      "local": "assets/gallery/gallery-113.jpg",
+      "dimensions": [
+        1280,
+        960
+      ],
+      "bytes": 65766,
+      "format": "JPEG",
+      "sha256": "4661204e5b6f801eaed76f2000b636ee8ca0391e2bcef01e898f0450fcaf3e84",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project11.jpg",
+      "old": "assets/gallery/gallery-114.webp",
+      "local": "assets/gallery/gallery-114.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 833869,
+      "format": "JPEG",
+      "sha256": "d90441571697840f84f7f000cef0f0550e7fd0359715b7395753a24a1fe41f01",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/gallery/project0.jpg",
+      "old": "assets/gallery/gallery-115.webp",
+      "local": "assets/gallery/gallery-115.jpg",
+      "dimensions": [
+        4800,
+        3000
+      ],
+      "bytes": 911596,
+      "format": "JPEG",
+      "sha256": "3447eb1565b3affaf65721506beb8ba56a2a47cb0f307a51369c55c971d32b85",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/1-real.jpg",
+      "old": "assets/comparisons/1-real.webp",
+      "local": "assets/comparisons/1-real.jpg",
+      "dimensions": [
+        1008,
+        720
+      ],
+      "bytes": 229843,
+      "format": "JPEG",
+      "sha256": "56b5c17a1f94d60ba34839114d4f04869f13ad70707393bfa67391def39fc000",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/1-3d.jpg",
+      "old": "assets/comparisons/1-3d.webp",
+      "local": "assets/comparisons/1-3d.jpg",
+      "dimensions": [
+        1008,
+        720
+      ],
+      "bytes": 293421,
+      "format": "JPEG",
+      "sha256": "69ef9eb122d681e3359eba24534b19b3c0866195150199a5af384035bcc24cce",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/2-real.jpg",
+      "old": "assets/comparisons/2-real.webp",
+      "local": "assets/comparisons/2-real.jpg",
+      "dimensions": [
+        1024,
+        575
+      ],
+      "bytes": 435722,
+      "format": "JPEG",
+      "sha256": "e7d00d68d564ff684e7f1ebc28c0998ebd6c2f7870d980a9965d6ab0bfa35a7e",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/2-3d.jpg",
+      "old": "assets/comparisons/2-3d.webp",
+      "local": "assets/comparisons/2-3d.jpg",
+      "dimensions": [
+        1024,
+        575
+      ],
+      "bytes": 441168,
+      "format": "JPEG",
+      "sha256": "e715433b905269630b04ea2fa324c5ed593c4d3e81d6a1174e1b54287978c6bc",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/3-real.jpg",
+      "old": "assets/comparisons/3-real.webp",
+      "local": "assets/comparisons/3-real.jpg",
+      "dimensions": [
+        1600,
+        890
+      ],
+      "bytes": 196550,
+      "format": "JPEG",
+      "sha256": "373a801fd5538b4e52fa3139a6f9e68eff266014527112ca6234501c71242ed6",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/3-3d.jpg",
+      "old": "assets/comparisons/3-3d.webp",
+      "local": "assets/comparisons/3-3d.jpg",
+      "dimensions": [
+        1600,
+        890
+      ],
+      "bytes": 290944,
+      "format": "JPEG",
+      "sha256": "412949553f4e0ed6f0c90d9768182d76a2130458d511ef5d1c4c9708a34def21",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/4-real.jpg",
+      "old": "assets/comparisons/4-real.webp",
+      "local": "assets/comparisons/4-real.jpg",
+      "dimensions": [
+        1400,
+        712
+      ],
+      "bytes": 341272,
+      "format": "JPEG",
+      "sha256": "9a83644325b94f70a767f0b5681e0902ba2ffdd285516fc74a4891228f2fafa0",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/4-3d.jpg",
+      "old": "assets/comparisons/4-3d.webp",
+      "local": "assets/comparisons/4-3d.jpg",
+      "dimensions": [
+        1400,
+        712
+      ],
+      "bytes": 354545,
+      "format": "JPEG",
+      "sha256": "800d2bd6679223d5a977d2f326e18c439c62167e8c636c33a12cf9a3f5166d67",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/5-real.jpg",
+      "old": "assets/comparisons/5-real.webp",
+      "local": "assets/comparisons/5-real.jpg",
+      "dimensions": [
+        1008,
+        720
+      ],
+      "bytes": 367024,
+      "format": "JPEG",
+      "sha256": "7ffb44533855b3d1c0bce2a50fe5c0862bfff7fc1958f298ac949d965ddf5dea",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/5-3d.jpg",
+      "old": "assets/comparisons/5-3d.webp",
+      "local": "assets/comparisons/5-3d.jpg",
+      "dimensions": [
+        1008,
+        720
+      ],
+      "bytes": 487736,
+      "format": "JPEG",
+      "sha256": "2513e933d36fdbc55db44922a0f7ac3fb836f9d5f8f68930c8e242e26ffea8e6",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/6-real.jpg",
+      "old": "assets/comparisons/6-real.webp",
+      "local": "assets/comparisons/6-real.jpg",
+      "dimensions": [
+        1500,
+        1000
+      ],
+      "bytes": 462829,
+      "format": "JPEG",
+      "sha256": "3169ad6be8221fa7329f8b9abffb75b1066f1a695adbfa2fbfa3a44b4e46a812",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/6-3d.jpg",
+      "old": "assets/comparisons/6-3d.webp",
+      "local": "assets/comparisons/6-3d.jpg",
+      "dimensions": [
+        1500,
+        1000
+      ],
+      "bytes": 420727,
+      "format": "JPEG",
+      "sha256": "5ad8177a72d77569b765ecf39c44c7727461f44b10cf657e5a2616454c4255df",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/7-real.jpg",
+      "old": "assets/comparisons/7-real.webp",
+      "local": "assets/comparisons/7-real.jpg",
+      "dimensions": [
+        1200,
+        750
+      ],
+      "bytes": 245473,
+      "format": "JPEG",
+      "sha256": "950ec33dce8ac6276355753c74206c76f4047944c3857158247c2f135dd67f04",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/real-vs-3d/7-3d.jpg",
+      "old": "assets/comparisons/7-3d.webp",
+      "local": "assets/comparisons/7-3d.jpg",
+      "dimensions": [
+        1200,
+        750
+      ],
+      "bytes": 314572,
+      "format": "JPEG",
+      "sha256": "3f0adef9beba8d9f0314398591ebc0f6e7fc878f7eef0c4322413690fa248537",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/staff-images/Jayaraj.jpg",
+      "old": "assets/team/team-01.webp",
+      "local": "assets/team/team-01.jpg",
+      "dimensions": [
+        679,
+        986
+      ],
+      "bytes": 45843,
+      "format": "JPEG",
+      "sha256": "c722dac2112dfca042baa2618c861a845c23f2782504f7b5d6837794e003cc0f",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/staff-images/Vaisakh.jpg",
+      "old": "assets/team/team-02.webp",
+      "local": "assets/team/team-02.jpg",
+      "dimensions": [
+        1373,
+        1997
+      ],
+      "bytes": 3171526,
+      "format": "JPEG",
+      "sha256": "35292120fd1d0489171a7087d57838edf9bf6d705549d0cd3551d4367c6b507c",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/staff-images/Ashlin.jpg",
+      "old": "assets/team/team-03.webp",
+      "local": "assets/team/team-03.jpg",
+      "dimensions": [
+        859,
+        1250
+      ],
+      "bytes": 72156,
+      "format": "JPEG",
+      "sha256": "e0e4f3348d94c017ac9c8112c5d64b0c530caa4295c1ed1e8b0ecdb9a1661be8",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/staff-images/Dony.jpg",
+      "old": "assets/team/team-04.webp",
+      "local": "assets/team/team-04.jpg",
+      "dimensions": [
+        723,
+        1052
+      ],
+      "bytes": 405206,
+      "format": "JPEG",
+      "sha256": "c10315a8eac4463f6bee6a9dbd9131ef0641aa0f74563e4ef3a21f0f57c16042",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/staff-images/Shahana1.jpg",
+      "old": "assets/team/team-05.webp",
+      "local": "assets/team/team-05.jpg",
+      "dimensions": [
+        373,
+        543
+      ],
+      "bytes": 37250,
+      "format": "JPEG",
+      "sha256": "8c0d086833a0d24e7575fd41f250f9d4255dab0c0ea54706a86ebd4f4d4c598d",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/staff-images/Sreeraj.jpg",
+      "old": "assets/team/team-06.webp",
+      "local": "assets/team/team-06.jpg",
+      "dimensions": [
+        1179,
+        1715
+      ],
+      "bytes": 1530298,
+      "format": "JPEG",
+      "sha256": "363d3630e736f0f1c9e56214356bc3c6eabe91c7f9d93c8c3e4ab8512e0125e3",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/staff-images/Nija.jpg",
+      "old": "assets/team/team-07.webp",
+      "local": "assets/team/team-07.jpg",
+      "dimensions": [
+        727,
+        1057
+      ],
+      "bytes": 60769,
+      "format": "JPEG",
+      "sha256": "7f0cd20e24d117f31f7d3759b4895843333afecc9258958172cd18005b6e8cab",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/staff-images/Bharath1.jpg",
+      "old": "assets/team/team-08.webp",
+      "local": "assets/team/team-08.jpg",
+      "dimensions": [
+        364,
+        529
+      ],
+      "bytes": 12786,
+      "format": "JPEG",
+      "sha256": "d0684be624c24363ffecf1fd80bf7dd6cd2a8d7e1ff7dceb288c1766c5ef7162",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/staff-images/Sandra1.jpg",
+      "old": "assets/team/team-09.webp",
+      "local": "assets/team/team-09.jpg",
+      "dimensions": [
+        1530,
+        2226
+      ],
+      "bytes": 908048,
+      "format": "JPEG",
+      "sha256": "b29759e4594264c5ebc0e1443f187e11d9c24fe8c9b3d5b8e4862d182de7277f",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/staff-images/Adarsh.jpg",
+      "old": "assets/team/team-10.webp",
+      "local": "assets/team/team-10.jpg",
+      "dimensions": [
+        1928,
+        2804
+      ],
+      "bytes": 954102,
+      "format": "JPEG",
+      "sha256": "ce0f7c551e1dfb0b74b34731c09e4cf475a8979bab213c9ba31e3747d4228a86",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/staff-images/Deepthy.jpg",
+      "old": "assets/team/team-11.webp",
+      "local": "assets/team/team-11.jpg",
+      "dimensions": [
+        388,
+        564
+      ],
+      "bytes": 16458,
+      "format": "JPEG",
+      "sha256": "01a7d87f66f311a4fab0c38c19e8a2a2fd205c9a1d3b875eb9c4baea6ae59756",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/staff-images/Nimisha.jpg",
+      "old": "assets/team/team-12.webp",
+      "local": "assets/team/team-12.jpg",
+      "dimensions": [
+        273,
+        398
+      ],
+      "bytes": 13755,
+      "format": "JPEG",
+      "sha256": "26775dcc578c0d8a2224a3aebe5a9a6de348ac7b9ad95fd7de40a44acc865d8f",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/staff-images/Amrutha.jpeg",
+      "old": "assets/team/team-13.webp",
+      "local": "assets/team/team-13.jpg",
+      "dimensions": [
+        859,
+        1250
+      ],
+      "bytes": 173398,
+      "format": "JPEG",
+      "sha256": "99ab00e8bfffb6b330c35057940a98bd076f5134512e87aad29460c0148456f7",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/staff-images/Hari1.jpg",
+      "old": "assets/team/team-14.webp",
+      "local": "assets/team/team-14.jpg",
+      "dimensions": [
+        380,
+        553
+      ],
+      "bytes": 12837,
+      "format": "JPEG",
+      "sha256": "afe8ce1cded2d67c004a8fe2901a57be053d5b026efacd594766dfd321356cb3",
+      "unmodifiedOriginal": true
+    },
+    {
+      "source": "https://nihaara.com/assets/staff-images/Bibin.jpg",
+      "old": "assets/team/team-15.webp",
+      "local": "assets/team/team-15.jpg",
+      "dimensions": [
+        440,
+        640
+      ],
+      "bytes": 19763,
+      "format": "JPEG",
+      "sha256": "07de6c9bd77cf0ef15ecc4c1d3de216eb6325cbe6de0b56f96a3792ba782fc7a",
+      "unmodifiedOriginal": true
+    }
+  ],
+  "qualityPolicy": "All 152 photographic assets are unmodified original downloads, at native dimensions. No resizing, upscaling or additional lossy encoding.",
+  "vectorBranding": "SVG paths traced from the alpha silhouette of the supplied PNG; header, footer and splash use vectors."
+}

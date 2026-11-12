@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /server/
+Disallow: /data/
+Disallow: /docs/
+Sitemap: https://nihaara.com/sitemap.xml
