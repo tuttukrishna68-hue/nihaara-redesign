@@ -2,10 +2,11 @@ NIHAARA WEBSITE — SPLASH / MOTION / ORIGINAL-QUALITY UPDATE
 
 OPEN ON YOUR PHONE
 1. Extract this ZIP completely.
-2. Open the first/top-level index.html inside Nihaara_Website_Redesign/.
+2. Open the top-level index.html inside Nihaara_Website_Redesign/; it forwards to website-source/index.html.
 3. Choose Open with Chrome.
 
-The top-level HTML contains all styling, scripts, fonts and original images.
+The top-level index.html is the hosting entrypoint. It forwards to the modular source,
+which contains all styling, scripts, fonts and original images.
 It includes the logo splash from the reference website, the staggered headline
 entrance, landscape motion, scroll reveals, full gallery, studio and FAQ views.
 The Social Media column is beside Meet, and navigation text uses a regular weight.
@@ -33,11 +34,12 @@ website-source/ contains all five production pages, all original-quality
 assets, the editable CSS/JavaScript, the optional backend, tests, source
 checksums and setup instructions. Follow website-source/README.md.
 Serve that modular source over HTTP/HTTPS. For a direct local phone preview,
-use the TOP-LEVEL index.html rather than website-source/index.html.
+use index.offline-preview.html when it is present; the tracked top-level index.html
+is the hosting entrypoint and forwards to website-source/index.html.
 
 REBUILD THE SINGLE FILE
 From website-source/, with Python 3:
-python tools/build-offline.py --output ../index.html
+python tools/build-offline.py --output ../index.offline-preview.html
 
 The EmailJS account and final production hosting still need verification.
 No live enquiry messages were sent during development.
